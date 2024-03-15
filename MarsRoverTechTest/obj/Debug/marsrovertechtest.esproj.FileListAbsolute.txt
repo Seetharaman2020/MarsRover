@@ -1,0 +1,2 @@
+C:\Users\seeth\git\MarsRoverTechTest\obj\Debug\marsrovertechtest.esproj.CoreCompileInputs.cache
+C:\Users\seeth\git\MarsRover\MarsRoverTechTest\obj\Debug\marsrovertechtest.esproj.CoreCompileInputs.cache
