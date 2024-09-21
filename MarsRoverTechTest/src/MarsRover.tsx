@@ -33,6 +33,7 @@ const MarsRover: React.FC = () => {
       }
     };
     // adding a minor commit #1 - git rebase squash
+    // comment 2 added
     const turnRight = (): Direction => {
       switch (direction) {
         case "N":
